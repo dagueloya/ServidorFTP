@@ -1,0 +1,11 @@
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\bin\Debug\FTPupload.exe.config
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\bin\Debug\FTPupload.exe
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\bin\Debug\FTPupload.pdb
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.csproj.AssemblyReference.cache
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.csproj.SuggestedBindingRedirects.cache
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.Form1.resources
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.Properties.Resources.resources
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.csproj.GenerateResource.cache
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.csproj.CoreCompileInputs.cache
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.exe
+C:\Users\dagueloya\Documents\C#\Tutorial\FTPupload\obj\Debug\FTPupload.pdb
